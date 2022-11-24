@@ -27,6 +27,6 @@
   <a href = "mailto:vinifmarinhoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-marinho-b73a7b12a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/Vinif43/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Vinif43/Vinif43/blob/output/github-contribution-grid-snake.svg)
  
 </div>
